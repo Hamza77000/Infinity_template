@@ -1813,6 +1813,8 @@ responsive
 }
 
 @media (max-width: 767px) {
+	
+	section.contact-us .right-info ul li{width:100%}	
 
   .sub-header .left-content p {
     display: none;
